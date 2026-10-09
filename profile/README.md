@@ -8,5 +8,5 @@ Dappled Studios is a Minecraft Software organization focusing on improving the M
 - Join our community by [visiting our forums](https://forums.papermc.io/) or chatting on our Discord server:
 
 <a href="https://disc.gg/dappledstudios">
-         <img alt="Dappled Studios Discord" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
+         <img alt="Dappled Studios Discord" src="https://discord.com/api/guilds/1555399721160409138/widget.png?style=banner2">
 </a>
