@@ -1,33 +1,44 @@
 # 🦆 Ducky Development
 
-**Making dumb Minecraft mods since day one.**
-
-Welcome to **Ducky Development** — a development team focused on creating Minecraft clients and modifications. We build projects for the community, experiment with new ideas, and occasionally make things that probably shouldn't exist. 💀
+Welcome to **Ducky Development** — home to our Minecraft clients and modifications. We build projects, experiment with ideas, and bring our own twist to the Minecraft modding scene.
 
 ---
 
 ## 🚀 Our Projects
 
-### 🥚 Ducky B4
-An open-source Minecraft modification inspired by Raven B4, recreated and tailored for DonutSMP.
-
-- 🎮 **Game:** Minecraft 26.2
-- 🔓 **Open Source**
-- 🛠️ **Focus:** DonutSMP
-
-### 🦆 Ducky Client
-More details coming soon!
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🖤 Ducky B4</h3>
+      An open-source Minecraft modification inspired by Raven B4, recreated for DonutSMP.
+      <br/><br/>
+      <strong>Game:</strong> Minecraft 26.2
+      <br/>
+      <strong>Status:</strong> Open Source
+    </td>
+    <td width="50%">
+      <h3>🦆 Ducky Client</h3>
+      Another Minecraft client developed under the Ducky Development name.
+      <br/><br/>
+      <strong>Game:</strong> Minecraft
+      <br/>
+      <strong>Status:</strong> In Development
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 👥 About Us
+## 🛠️ About
 
-We're a small development team with a passion for Minecraft, client development, and building projects for the community.
+Ducky Development is focused on creating Minecraft clients and modifications with a mix of experimentation, customization, and questionable decisions.
 
-## 🔗 Find Us
+## 📂 Repositories
 
-- **GitHub:** Explore our repositories to see our projects and source code.
+Check out our repositories to explore our projects, source code, and future releases.
 
 ---
 
-<sub>© Ducky Development • Made with 🦆 and questionable decisions.</sub>
+<p align="center">
+  <sub>Made with 🦆 by Ducky Development</sub>
+</p>
