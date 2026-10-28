@@ -18,7 +18,7 @@ Welcome to **Ducky Development** — home to our Minecraft clients and modificat
     </td>
     <td width="50%">
       <h3>🦆 Ducky Client</h3>
-      Another Minecraft client developed under the Ducky Development name.
+      Coming soon...
       <br/><br/>
       <strong>Game:</strong> Minecraft
       <br/>
