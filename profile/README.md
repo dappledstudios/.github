@@ -1,5 +1,3 @@
-make me a github org repo readme.md
-
 # 🦆 Ducky Development
 
 Welcome to **Ducky Development** — home to our Minecraft clients and modifications. We build projects, experiment with ideas, and bring our own twist to the Minecraft modding scene.
